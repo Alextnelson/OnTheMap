@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					5B8213531DF6045400C1411A = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 28Z9E8EXMP;
 						ProvisioningStyle = Automatic;
 					};
 					5B8213671DF6045400C1411A = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 28Z9E8EXMP;
 				INFOPLIST_FILE = OnTheMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jetwolfelabs.OnTheMap;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 28Z9E8EXMP;
 				INFOPLIST_FILE = OnTheMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jetwolfelabs.OnTheMap;
